@@ -2,7 +2,7 @@
   "name": "frensHouse DAO",
   "version": 1,
   "description": "Complete these tasks to start your frensHouse Journey! 🏴🚀",
-  "website": "https://www.bankless.community/",
+  "website": "https://frens.house",
   "twitter": "frensHouse",
   "tasks": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "🏴 OG frensHouse Member",
-      "description": "frensHouse https://newsletter.banklesshq.com subscribers who own a Bankless POAP from 2020 or 2021.",
+      "description": "frensHouse https://frens.house subscribers who own a Bankless POAP from 2020 or 2021.",
       "points": 400,
       "verifier": {
         "id": "has-poap-ids",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "name": "🌐 Join Bankless DAO and vote on Snapshot",
+      "name": "🌐 Join frensHouse DAO and vote on Snapshot",
       "description": "Participate in (off-chain) governance using Snapshot and vote on min. 1 proposal.",
       "points": 400,
       "verifier": {
@@ -39,8 +39,8 @@
       }
     },
     {
-      "name": "📚 Bankless Learner",
-      "description": "Complete lessons on Bankless Academy https://banklessacademy.com and collect POAPs as Proof of Learning.",
+      "name": "📚 frensHouse Learner",
+      "description": "Complete lessons on Bankless Academy https://frens.house and collect POAPs as Proof of Learning.",
       "points": 400,
       "verifier": {
         "id": "has-poap-ids",
