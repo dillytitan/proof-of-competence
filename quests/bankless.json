@@ -1,9 +1,9 @@
 {
-  "name": "Bankless DAO",
+  "name": "frensHouse DAO",
   "version": 1,
-  "description": "Complete these tasks to start your Bankless Journey! 🏴🚀",
+  "description": "Complete these tasks to start your frensHouse Journey! 🏴🚀",
   "website": "https://www.bankless.community/",
-  "twitter": "banklessDAO",
+  "twitter": "frensHouse",
   "tasks": [
     {
       "name": "🔑 Create a Web3 wallet",
@@ -14,8 +14,8 @@
       }
     },
     {
-      "name": "🏴 OG Bankless Member",
-      "description": "Bankless https://newsletter.banklesshq.com subscribers who own a Bankless POAP from 2020 or 2021.",
+      "name": "🏴 OG frensHouse Member",
+      "description": "frensHouse https://newsletter.banklesshq.com subscribers who own a Bankless POAP from 2020 or 2021.",
       "points": 400,
       "verifier": {
         "id": "has-poap-ids",
